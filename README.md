@@ -1,1 +1,1 @@
-# Halal-Restaurant-App
+# Halal-Restaurant
